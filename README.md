@@ -98,7 +98,7 @@ http://localhost:3000
 
 ## 🌐 Live Demo
 
-👉 *(Add your deployed Vercel link here)*
+👉 (https://wall-calendar-zeta.vercel.app/)
 
 ## 💡 Design Decisions
 
